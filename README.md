@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gennipher-io
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning r and python. This repo will serve as my coursework compendium 
+- 👀 I’m interested in ML/NLP and data science, and social inequalities/stratification
+- 🌱 I’m currently learning R and Python. This repo will serve as my coursework compendium 
 - 📫 gennipher@polyvi.io
 
 <!---
